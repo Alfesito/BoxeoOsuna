@@ -15,4 +15,11 @@
 
 ## Ancho de banda que ocupa la web
     https://tools.pingdom.com/#5e8802abfcc00000 
+
+## Servidores host
+    https://es.000webhost.com/members/website/list
+
+## Como hacer para que un sitio web aparezca en  google
+    https://www.descom.es/blog/alojamiento-web/google-posicionamiento-seo/icomo-hacer-para-que-aparezca-mi-web-en-google.html
+    https://support.google.com/webmasters/answer/9012289#request_indexing
     
