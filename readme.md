@@ -12,4 +12,7 @@
 ## Videos de ayuda
     https://www.youtube.com/watch?v=TC8bT7zTdoE&t=3373s
     https://www.youtube.com/watch?v=m327MsowAvg&t=253s
+
+## Ancho de banda que ocupa la web
+    https://tools.pingdom.com/#5e8802abfcc00000 
     
