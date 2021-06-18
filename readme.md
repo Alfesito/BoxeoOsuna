@@ -2,6 +2,7 @@
 ## Imagenes:
     https://unsplash.com
     https://picresize.com
+    https://compressjpeg.com/es/        //Optimiza las imagenes .jpeg
 ## Estilos:
     https://www.fontpair.co
     https://fonts.google.com
