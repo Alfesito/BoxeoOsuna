@@ -4,7 +4,7 @@
     https://picresize.com
     https://compressjpeg.com/es/        //Optimiza las imagenes .jpeg
 ## Estilos:
-    https://www.fontpair.co
+    https://www.fontpair.com
     https://fonts.google.com
 ## Ubicación del local en GoogleMaps:
     https://www.trecebits.com/2020/02/03/como-poner-la-direccion-de-una-empresa-en-google-maps/ 

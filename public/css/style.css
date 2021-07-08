@@ -21,6 +21,7 @@ body {
   .card{
     border: 0 !important;
     box-shadow:  0 4px 6px -1px rgba(0, 0, 0, 1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    margin: 5%;
   }
   
   .card-title{
@@ -53,10 +54,21 @@ body {
 
   .redes-container ul li{
     display: inline-block;
-    margin: 0 50px;
+    margin: 0 25px;
   }
 
   .redes-containes ul li a{
-    display: block;
-    box-shadow:  0 4px 6px -1px rgba(0, 0, 0, 1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    height:200px;
+    background-blend-mode: normal;
+  }
+
+  .map{
+    align-content: center;
+    text-align: center;
+    margin: 5%;
+  }
+
+  .foot{
+    align-content: center;
+    text-align: center;
   }
